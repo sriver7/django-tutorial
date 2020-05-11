@@ -70,5 +70,3 @@ source .venv/bin/activate
 3. Add objects to the admin page
 4. Customize the admin change list
 5. Customize the admin look/feel
-
-Test
