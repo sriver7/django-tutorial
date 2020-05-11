@@ -71,3 +71,4 @@ source .venv/bin/activate
 4. Customize the admin change list
 5. Customize the admin look/feel
 
+Test
