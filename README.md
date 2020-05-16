@@ -11,7 +11,7 @@ Doing this here for my reference in the future.
 ## In the directory where project is create a virtual environment for Python since Mac OS needs to use Python 2 for some stuff.  
 ```text
 python3 -m venv ./venv
-source .venv/bin/activate
+source ./venv/bin/activate
 ```
 Confirm that the the environment picks up Python 3 by running 
 ```text
@@ -19,7 +19,7 @@ python --version
 ```
 From now on just run this to activate the environment whenever a new terminal shell is opened.  
 ```text
-source .venv/bin/activate
+source ./venv/bin/activate
 ```
 ## Topics covered - Part 1
 1. Creating a Project
